@@ -1,0 +1,23 @@
+{
+  "name": "hiveflow",
+  "description": "Official Hiveflow plugins for Claude Code — connect your workflows, boards and local workers.",
+  "owner": {
+    "name": "Hiveflow",
+    "email": "jo@hiveflow.ai",
+    "url": "https://hiveflow.ai"
+  },
+  "plugins": [
+    {
+      "name": "hiveflow",
+      "source": "./plugins/hiveflow",
+      "description": "Operate your Hiveflow workspace from Claude Code: inspect and run visual AI workflows, work kanban boards, and supervise the local workers that turn cards into pull requests.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Hiveflow",
+        "url": "https://hiveflow.ai"
+      },
+      "category": "automation",
+      "homepage": "https://hiveflow.ai"
+    }
+  ]
+}

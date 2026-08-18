@@ -1,0 +1,6 @@
+{
+  "hiveflow": {
+    "type": "http",
+    "url": "https://mcp.hiveflow.ai"
+  }
+}
