@@ -9,8 +9,7 @@ repos, the git worktrees and the local agents. The MCP tools reach the platform;
 the CLI reaches the laptop. Work that touches files, branches or pull requests
 happens there.
 
-Install with `npm install -g @hiveflow/cli`, or
-`curl -fsSL https://hiveflow.ai/install.sh | bash`. Entry points: `hiveflow`,
+Install with `npm install -g @hiveflow/cli@1.0.0`. Entry points: `hiveflow`,
 `hive`, `hf`, `flow`. Requires `bash`, `jq` and `curl`.
 
 Verify what is installed before instructing the user — versions and available
