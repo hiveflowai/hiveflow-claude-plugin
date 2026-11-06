@@ -9,6 +9,8 @@
     "url": "https://hiveflow.ai"
   },
   "homepage": "https://hiveflow.ai",
+  "privacyPolicyUrl": "https://hiveflow.ai/privacy",
+  "icon": ".claude-plugin/icon.png",
   "repository": "https://github.com/hiveflowai/hiveflow-claude-plugin",
   "license": "MIT",
   "keywords": [
